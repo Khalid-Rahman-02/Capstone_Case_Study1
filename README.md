@@ -12,12 +12,12 @@ Recommend actionable strategies to increase the number of annual members, as the
 **Methodology:**
 The project followed the typical steps of the data analysis process:
 
-*Ask:* Define the business problem and objectives.
-*Prepare:* Collect and prepare the data for analysis.
-*Process:* Clean and transform the data to ensure accuracy and consistency.
-*Analyze:* Perform exploratory data analysis to identify patterns and trends.
-*Share:* Create visualizations and summarize key findings.
-*Act:* Provide actionable recommendations based on the analysis.
+*1. Ask:* Define the business problem and objectives.
+*2. Prepare:* Collect and prepare the data for analysis.
+*3. Process:* Clean and transform the data to ensure accuracy and consistency.
+*4. Analyze:* Perform exploratory data analysis to identify patterns and trends.
+*5. Share:* Create visualizations and summarize key findings.
+*6. Act:* Provide actionable recommendations based on the analysis.
 
 **Data Sources:**
 Cyclistic Historical Bike Trip Data: The analysis was conducted on data collected from the past 12 months of Cyclistic bike trips. The data includes details like trip duration, start and end time, day of the week, and user type (annual member or casual rider).
